@@ -13,4 +13,4 @@ hide_menu_style = """
 st.markdown(hide_menu_style, unsafe_allow_html=True)
 
 st.title("Analysis App")
-st.image("/Users/bhavinsangani/Desktop/Analysis-App/Analysis-App/Images/home_page.jpg", use_column_width = "always")
+st.image("Images/home_page.jpg", use_column_width = "always")
